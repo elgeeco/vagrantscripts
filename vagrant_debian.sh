@@ -92,7 +92,8 @@ sudo apt-get update
 
 #sudo apt-get install mono-devel 
 #sudo apt-get install mono-complete
-sudo apt-get install referenceassemblies-pcl
+#sudo apt-get install referenceassemblies-pcl
+sudo apt-get install mono-runtime
 
 #########################################################################
 echo "Install done" 
